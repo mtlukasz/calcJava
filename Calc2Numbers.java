@@ -24,3 +24,4 @@ public class Calc2Numbers {
         return total;
     }
 }
+ready for code review!
